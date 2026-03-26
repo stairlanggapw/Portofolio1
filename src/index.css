@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@theme {
+    --color-primary: #F5C518;   
+    --color-dark: #0A0A0A;      
+    --color-muted: #6B7280;      
+}
